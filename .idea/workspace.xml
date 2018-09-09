@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="040d7fe9-780d-482c-b1b9-2ce82a4edb25" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="68c91309-eca2-4048-afea-7e7abfe0f708" name="Default Changelist" comment="" />
+>>>>>>> 7a4471b18241bb87b4b2a47a17e5cd9cff76d777
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,27 +13,47 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
+<<<<<<< HEAD
     <session id="309770257">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.open.time.8" value="1" />
+=======
+    <session id="1546299738">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.3" value="1" />
+>>>>>>> 7a4471b18241bb87b4b2a47a17e5cd9cff76d777
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+<<<<<<< HEAD
           <entry key="TEST" value="1" />
           <entry key="txt" value="2" />
+=======
+          <entry key="LICENSE" value="1" />
+          <entry key="md" value="1" />
+          <entry key="php" value="1" />
+>>>>>>> 7a4471b18241bb87b4b2a47a17e5cd9cff76d777
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+<<<<<<< HEAD
           <entry key="PLAIN_TEXT" value="3" />
+=======
+          <entry key="Markdown" value="1" />
+          <entry key="PHP" value="1" />
+          <entry key="PLAIN_TEXT" value="1" />
+>>>>>>> 7a4471b18241bb87b4b2a47a17e5cd9cff76d777
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
     <leaf>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/User/User1/TEST">
@@ -37,6 +61,9 @@
         </entry>
       </file>
     </leaf>
+=======
+    <leaf />
+>>>>>>> 7a4471b18241bb87b4b2a47a17e5cd9cff76d777
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -47,9 +74,17 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+<<<<<<< HEAD
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
+=======
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="121" />
+    <option name="y" value="157" />
+    <option name="width" value="1750" />
+    <option name="height" value="968" />
+>>>>>>> 7a4471b18241bb87b4b2a47a17e5cd9cff76d777
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -76,18 +111,30 @@
             <path>
               <item name="gametime" type="b2602c69:ProjectViewProjectNode" />
               <item name="gametime" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="Database" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="Content" type="462c0819:PsiDirectoryNode" />
+              <item name="API" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 7a4471b18241bb87b4b2a47a17e5cd9cff76d777
+            </path>
+            <path>
+              <item name="gametime" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gametime" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
+              <item name="User" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="Database" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 7a4471b18241bb87b4b2a47a17e5cd9cff76d777
             </path>
             <path>
               <item name="gametime" type="b2602c69:ProjectViewProjectNode" />
               <item name="gametime" type="462c0819:PsiDirectoryNode" />
               <item name="User" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gametime" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gametime" type="462c0819:PsiDirectoryNode" />
-              <item name="User" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="User1" type="462c0819:PsiDirectoryNode" />
+=======
+>>>>>>> 7a4471b18241bb87b4b2a47a17e5cd9cff76d777
             </path>
           </expand>
           <select />
@@ -97,12 +144,16 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+<<<<<<< HEAD
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+=======
+    <property name="WebServerToolWindowFactoryState" value="false" />
+>>>>>>> 7a4471b18241bb87b4b2a47a17e5cd9cff76d777
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -121,16 +172,26 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="040d7fe9-780d-482c-b1b9-2ce82a4edb25" name="Default Changelist" comment="" />
       <created>1536525256700</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1536525256700</updated>
       <workItem from="1536525261484" duration="4759000" />
+=======
+      <changelist id="68c91309-eca2-4048-afea-7e7abfe0f708" name="Default Changelist" comment="" />
+      <created>1536525966834</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536525966834</updated>
+      <workItem from="1536525969566" duration="2740000" />
+>>>>>>> 7a4471b18241bb87b4b2a47a17e5cd9cff76d777
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="4759000" />
   </component>
   <component name="ToolWindowManager">
@@ -138,13 +199,28 @@
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24248926" />
+=======
+    <option name="totallyTimeSpent" value="2740000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22483222" />
+>>>>>>> 7a4471b18241bb87b4b2a47a17e5cd9cff76d777
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
+<<<<<<< HEAD
       <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="File Transfer" weight="0.32891566" />
+=======
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="File Transfer" visible="true" weight="0.32907802" />
+>>>>>>> 7a4471b18241bb87b4b2a47a17e5cd9cff76d777
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -152,7 +228,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+<<<<<<< HEAD
       <window_info anchor="right" id="Remote Host" visible="true" weight="0.3204578" />
+=======
+>>>>>>> 7a4471b18241bb87b4b2a47a17e5cd9cff76d777
       <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -166,7 +245,24 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/User/User1/TEST">
+=======
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Admin/index.php">
+>>>>>>> 7a4471b18241bb87b4b2a47a17e5cd9cff76d777
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>

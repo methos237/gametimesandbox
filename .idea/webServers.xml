@@ -2,8 +2,13 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
+<<<<<<< HEAD
       <webServer id="b13f71cc-0c11-4fef-9579-924cb2bb7d60" name="GameTime" url="http://gametimesandbox.polkcreative.com">
         <fileTransfer host="ftp.polkcreative.com" port="21">
+=======
+      <webServer id="9ad70198-e845-45a5-a291-f72f12e7044e" name="gametime" url="http://gametimesandbox.polkcreative.com">
+        <fileTransfer host="gametimesandbox.polkcreative.com" port="21">
+>>>>>>> 7a4471b18241bb87b4b2a47a17e5cd9cff76d777
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
           </advancedOptions>

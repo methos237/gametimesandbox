@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="PublishConfigData" serverName="GameTime">
     <serverData>
       <paths name="GameTime">
+=======
+  <component name="PublishConfigData" serverName="gametime">
+    <serverData>
+      <paths name="gametime">
+>>>>>>> 7a4471b18241bb87b4b2a47a17e5cd9cff76d777
         <serverdata>
           <mappings>
             <mapping deploy="/" local="$PROJECT_DIR$" web="/" />

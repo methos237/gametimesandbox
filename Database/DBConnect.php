@@ -2,7 +2,7 @@
 namespace Database;
 
 /**
- * Last Updated: 9/22/2018
+ * Last Updated: 9/25/2018
  *
  * Description: Wrapper class for PDO database operations.
  *

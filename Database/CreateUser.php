@@ -2,7 +2,7 @@
 namespace Database;
 
 /**
- * Last Updated: 9/25/2018
+ * Last Updated: 9/26/2018
  *
  * Description: Creates a user record in the database
  *
